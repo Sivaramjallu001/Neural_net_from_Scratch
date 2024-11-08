@@ -26,5 +26,24 @@ This project walks through the step-by-step process of creating a fully function
 
 ---
 
+🧩 Key Concepts Explained
 
+Feedforward Propagation: Compute the outputs layer by layer.
+Backpropagation: Update weights and biases using gradient descent.
+Activation Functions: Add non-linearity to learn complex patterns.
+Loss Functions: Measure how far predictions are from the target values.
 
+---
+
+🤝 Contributions
+
+Contributions are welcome! If you’d like to improve this repository, please feel free to fork it and submit a pull request. Alternatively, create an issue to discuss any changes or suggestions.
+
+---
+
+🌟 Acknowledgments
+
+Inspired by the desire to understand neural networks at a fundamental level.
+Special thanks to the online machine learning community for resources and discussions.
+
+---
